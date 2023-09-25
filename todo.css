@@ -1,0 +1,19 @@
+
+
+*{
+    align-items: center;
+}
+
+h1{
+    align-content: center;
+}
+body{
+   background-color: azure;
+
+}
+.form-input{
+    align-content: center;
+    font-size:5rem;
+    font-palette:light;
+    background-color: blue;
+}
